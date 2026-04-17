@@ -1,0 +1,7 @@
+database_path: data/ssrn_autobot.db
+digest_output_dir: output/digests
+sources:
+  - mock
+  - ssrn_placeholder
+top_n: 10
+log_level: INFO
